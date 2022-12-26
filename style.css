@@ -181,3 +181,16 @@ body {
     padding: 20px;
 }
     /* PART OF HOME IS FINISHED */
+    /* PART OF ABOUT */
+
+.about-info {
+    padding: 30px;
+}
+.about-part1 h1{
+    padding-bottom: 20px;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.about-part1 span {
+    color: #f7c08a;
+}
