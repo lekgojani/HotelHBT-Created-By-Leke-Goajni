@@ -183,14 +183,42 @@ body {
     /* PART OF HOME IS FINISHED */
     /* PART OF ABOUT */
 
-.about-info {
-    padding: 30px;
+.info-content {
+    margin-left: 81.500px;
+    margin-right: 81.500px;
+    padding: 30px 20px;
+    display: flex;
+    flex-direction: row;
+}
+.about-part1 {
+    width: 50%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.7em;
 }
 .about-part1 h1{
-    padding-bottom: 20px;
-    font-size: 40px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 17px;
 }
-.about-part1 span {
-    color: #f7c08a;
+.about-part1 h1 span{
+color: #f7c08a;
+}
+.about-part1 p{
+    margin: 10px 0px;
+    width: 530px;
+}
+.about-part2 img {
+    margin: 0px 79.500px;
+    border-radius: 50%;
+}
+.people-info{
+    padding: 100px 20px 30px 20px;
+    margin: 0px 81.500px;
+}
+.people-info h2 {
+    padding-bottom: 40px;
+    color: #333;
+    text-align:center;
+    font-size: 40px;
+}
+.person1 {
+    background-color: #f7c08a;
 }
